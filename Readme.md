@@ -1,4 +1,4 @@
-### **Top 3 similar Email based on Text similarity technique*
+### **Top 3 similar Email based on Text similarity technique**
 
 ---
 
